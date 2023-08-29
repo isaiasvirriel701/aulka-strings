@@ -1,0 +1,29 @@
+// this is a js file
+// Isaias Virriel
+
+//exercicio 1
+
+/* no console o modo toUpperCase vai imprimir a frase com as letras em maiuscula,o repleaceAll vai substituir algo da frase 
+ficara no pedido da frase (frase.length)ele ira mostrar o tamanho dela,ficando assim"SUBI EM UMA 'MOTO' EM MARROCOS",e trocada a palavra "onibus" 
+foi substituida por a palavra 'MOTO'*/
+/*
+//exercicio 2
+let nomeDoUsuario = prompt("qual e seu nome?");
+let emailDoUsuario = prompt("qual e seu email?");
+console.log("o email"), emailDoUsuario, "foi cadastrado com sucesso", "seja bem vind(@)",(nomeDoUsuario);
+
+*/
+
+//exercicio 3
+/*
+let listasDeComidas = ["frango frito", "hamburguer", "lasanha", "pizza", "sorvete"];
+console.log(listaDeComidas);
+console.log("minhas comidas favoritas são essas");
+listaDeComidas[1] = prompt ("qual e a sua comida preferida?").toString();
+console.log(listaDeComidas);
+*/
+
+//exercicio 4
+
+let listaDeTarefas = [];
+listaDeTarefas.push(prompt ("já comeu hoje?").toString());
